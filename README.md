@@ -16,6 +16,7 @@ I am **passionate about programming**, curious about how systems work internally
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Frontend
 
@@ -41,6 +42,8 @@ I am **passionate about programming**, curious about how systems work internally
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge\&logo=virtualbox\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
 ### Networking & IT
 
@@ -50,19 +53,21 @@ Linux CLI Router & Switch configuration (CLI) · PC assembly · Troubleshooting
 
 ## 🚀 Projects
 
-* **Mini Facebook (Social Network)**
-  Authentication, posts, follow system
-  *Tech:* Go, React, REST API
+* **Social Network (Mini Facebook Platform)**
+  Authentication, posts,chat,groups, follow system.  
+   **Tech:** Go, Netx.js, REST API, WebSocket.
 
 * **Real-Time Multiplayer Game**
-  Real-time gameplay using WebSockets
-  *Tech:* Go, JavaScript
+  Real-time gameplay using WebSockets  
+  **Tech:** Node.Js, JavaScript,WebSockets.
 
-* **Mini Framework & 0-Shell**
-  Custom framework and shell to understand low-level concepts
-  *Tech:* Go, Rust
-
-* **Networking Projects**
+* **Mini Frontend Framework (Next.Js-inspired)**
+ Designed and implemented a lightweight frontend framework inspired by Next.Js concepts, focusing on component structure, rendering logic, and state handling to better understand how modern frameworks work internally.  
+  **Tech:** JavaScript.
+* **Custom Unix-like Shell (0-Shell)**
+Built a custom shell to explore low-level system programming concepts such as command parsing, process execution, and interaction with the operating system.  
+ **Tech:**  Rust.
+* **Networking Projects:**
   Netcat, client-server architecture, routing & switching labs
 
 ---
